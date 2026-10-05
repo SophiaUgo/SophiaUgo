@@ -52,6 +52,8 @@ AI/ML Security · Agent Security · MCP · AI Infrastructure · Distributed Agen
 
 ---
 
+---
+
 ## 🌐 Open Source
 
 Open source is an important part of how I learn, build, and contribute.
@@ -60,18 +62,35 @@ I'm particularly interested in projects at the intersection of **security, infra
 
 ### 🔭 Current & Recent Work
 
-**NoKV · CNCF**
+#### 🤖 [NoKV](https://github.com/NoKV-Lab/NoKV)
 
-Contributing to infrastructure for agent-native AI systems, including work around Workspace RPC architecture and namespace/index management across client, protocol, and server components.
+Contributing to infrastructure for agent-native AI systems.
 
-**Kubernetes**
+My work has included **Workspace RPC architecture and namespace/index management** across client, protocol, and server components, collaborating with project maintainers through review and merge.
 
-Contributing to the Kubernetes ecosystem through release-cycle communications work, including involvement around Kubernetes v1.36 and v1.37.
+`Distributed Systems` `AI Infrastructure` `Agent Security`
 
-**OpenSSF & Cloud Native Security**
+---
 
-Exploring contributions around software supply chain security, SBOMs, cloud-native security, platform engineering, and AI/ML security.
+#### ☸️ [Kubernetes](https://github.com/kubernetes)
 
+Contributing to the Kubernetes ecosystem through release-cycle communications work, including involvement around **Kubernetes v1.36 and v1.37**.
+
+`Kubernetes` `Cloud Native` `Open Source`
+
+---
+
+#### 🔐 [OpenSSF](https://openssf.org/)
+
+Exploring contributions and technical learning around software supply chain security, SBOMs, secure development practices, and the broader open-source security ecosystem.
+
+`Software Supply Chain` `SBOM` `Open Source Security`
+
+---
+
+### 🌱 Areas I'm Exploring
+
+`Cloud Native Security` · `Platform Engineering` · `Software Supply Chain Security` · `AI/ML Security` · `Agent Security`
 ---
 
 ## 👩🏾‍💻 KubeLadies
