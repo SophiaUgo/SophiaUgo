@@ -52,8 +52,6 @@ AI/ML Security · Agent Security · MCP · AI Infrastructure · Distributed Agen
 
 ---
 
----
-
 ## 🌐 Open Source
 
 Open source is an important part of how I learn, build, and contribute.
@@ -88,7 +86,7 @@ Exploring contributions and technical learning around software supply chain secu
 
 ---
 
-### 🌱 Areas I'm Exploring
+### Areas I'm Exploring
 
 `Cloud Native Security` · `Platform Engineering` · `Software Supply Chain Security` · `AI/ML Security` · `Agent Security`
 ---
@@ -100,8 +98,6 @@ I founded **KubeLadies**, a community focused on helping women learn Kubernetes 
 The goal is to create a practical learning environment where beginners can move from learning concepts to configuring systems, building projects, and eventually contributing to open source.
 
 **KubeLadies → Kubernetes → Cloud Native → Open Source**
-
----
 
 ---
 
