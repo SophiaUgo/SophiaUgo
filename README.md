@@ -6,6 +6,14 @@
 
 Cloud Security · Cloud Native · Kubernetes · DevSecOps · AI Security
 
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SophiaUgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-ugochukwu-411270228/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sophiaugochukwu.hashnode.dev/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-222222?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+
 </div>
 
 ---
@@ -76,25 +84,25 @@ The goal is to create a practical learning environment where beginners can move 
 
 ---
 
+---
+
 ## 🛠️ Technology
 
-**Cloud & Infrastructure**
+<div align="center">
 
-`Azure` `Microsoft 365` `Entra ID` `Linux` `Windows`
+### Cloud & Infrastructure
 
-**Cloud Native**
+<img src="https://skillicons.dev/icons?i=azure,windows,linux,powershell,bash" />
 
-`Kubernetes` `Docker` `Git` `GitHub`
+### Cloud Native
 
-**Security**
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,git,github" />
 
-`Defender for Cloud` `Defender for Endpoint` `Defender for Office 365` `IAM` `DevSecOps` `Threat Modelling`
+### Engineering
 
-**Emerging Areas**
+<img src="https://skillicons.dev/icons?i=python,go,vscode" />
 
-`AI Security` `Agent Security` `MCP` `Software Supply Chain Security`
-
----
+</div>
 
 ## 📚 Currently Learning
 
